@@ -112,3 +112,8 @@ flex-wrap: wrap;
 .movie:hover .overview {
     transform :translateY(0);
 }
+@media(max-width:500px){
+    header h1 {
+        display: none;
+    }
+}
