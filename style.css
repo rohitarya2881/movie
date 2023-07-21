@@ -61,6 +61,7 @@ flex-wrap: wrap;
     position: relative;
     overflow: hidden;
     border-radius: 3px; 
+    margin: 0 auto;
 }
 .movie img {
     width: 100%;
